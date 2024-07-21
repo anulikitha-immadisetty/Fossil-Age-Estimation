@@ -1,1 +1,1 @@
-# Fossil-Age-Estimation
+# Fossil Age Estimation
